@@ -870,6 +870,14 @@
       "description": "Since November 1st, 1952, being a menace",
       "multiplier": 20,
       "id": 108
+    },
+    {
+      "name": "Jeri",
+      "type": "fa-face-angry",
+      "color": "bg-amber-500",
+      "description": "The best ever",
+      "multiplier": 20,
+      "id": 109
     }
   ],
   "colorsArray": [
