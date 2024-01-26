@@ -995,6 +995,11 @@
       "id": 15,
       "name": "bg-rose-500",
       "color": "Rose"
+    },
+    {
+      "id": 16,
+      "name": "bg-white",
+      "color": "White"
     }
   ]
 }
