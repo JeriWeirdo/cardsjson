@@ -909,7 +909,7 @@
       "color": "bg-white",
       "description": "First wind card ever🍃",
       "multiplier": 10,
-      "id": 112
+      "id": 113
     },
     {
       "name": "Rolling Stone",
@@ -917,7 +917,23 @@
       "color": "bg-gray-500",
       "description": "The first pebbles are forming",
       "multiplier": 3,
-      "id": 112
+      "id": 114
+    },
+    {
+      "name": "Tornado",
+      "type": "fa-wind",
+      "color": "bg-gray-500",
+      "description": "Ultimate Destruction",
+      "multiplier": 20,
+      "id": 115
+    },
+    {
+      "name": "Earthquake",
+      "type": "fa-gem",
+      "color": "bg-gray-500",
+      "description": "The mightiest of events",
+      "multiplier": 20,
+      "id": 116
     }
   ],
   "colorsArray": [
