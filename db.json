@@ -934,6 +934,126 @@
       "description": "The mightiest of events",
       "multiplier": 20,
       "id": 116
+    },
+    {
+      "name": "Rockin' Ruby",
+      "type": "fa-gem",
+      "color": "bg-red-500",
+      "description": "Shiny and Sparkling with a Ruby Twist",
+      "multiplier": 1,
+      "id": 117
+    },
+    {
+      "name": "Opal-tunity",
+      "type": "fa-gem",
+      "color": "bg-orange-500",
+      "description": "An Opal-tunity for Vibrations",
+      "multiplier": 2,
+      "id": 118
+    },
+    {
+      "name": "Amberlance",
+      "type": "fa-gem",
+      "color": "bg-amber-500",
+      "description": "Amberlance: Golden Quakes",
+      "multiplier": 3,
+      "id": 119
+    },
+    {
+      "name": "Yellowrumble",
+      "type": "fa-gem",
+      "color": "bg-yellow-500",
+      "description": "Yellowrumble: The Sunshine Shake",
+      "multiplier": 4,
+      "id": 120
+    },
+    {
+      "name": "Limerquake",
+      "type": "fa-gem",
+      "color": "bg-lime-500",
+      "description": "Limerquake: A Vibrant Quivering",
+      "multiplier": 5,
+      "id": 121
+    },
+    {
+      "name": "Emerquake",
+      "type": "fa-gem",
+      "color": "bg-green-500",
+      "description": "Emerquake: Nature's Trembling Elegance",
+      "multiplier": 6,
+      "id": 122
+    },
+    {
+      "name": "Tealshake",
+      "type": "fa-gem",
+      "color": "bg-emerald-500",
+      "description": "Tealshake: Shaking in Teal Tranquility",
+      "multiplier": 7,
+      "id": 123
+    },
+    {
+      "name": "Cyanquake",
+      "type": "fa-gem",
+      "color": "bg-teal-500",
+      "description": "Cyanquake: A Serene Cyan Shudder",
+      "multiplier": 8,
+      "id": 124
+    },
+    {
+      "name": "Gem-nado",
+      "type": "fa-gem",
+      "color": "bg-cyan-500",
+      "description": "Gem-nado: Jewels Whirling in Chaos",
+      "multiplier": 9,
+      "id": 125
+    },
+    {
+      "name": "Whispy Whirl",
+      "type": "fa-wind",
+      "color": "bg-sky-500",
+      "description": "Whispy Whirl: A Sky-high Breeze",
+      "multiplier": 1,
+      "id": 126
+    },
+    {
+      "name": "Blue Gusto",
+      "type": "fa-wind",
+      "color": "bg-blue-500",
+      "description": "Blue Gusto: Breezy Azure Adventure",
+      "multiplier": 2,
+      "id": 127
+    },
+    {
+      "name": "Indigo Zephyr",
+      "type": "fa-wind",
+      "color": "bg-indigo-500",
+      "description": "Indigo Zephyr: A Whirlwind of Indigo",
+      "multiplier": 3,
+      "id": 128
+    },
+    {
+      "name": "Violet Vortex",
+      "type": "fa-wind",
+      "color": "bg-violet-500",
+      "description": "Violet Vortex: A Purple Swirl",
+      "multiplier": 4,
+      "id": 129
+    },
+    {
+      "name": "Twist of Fate",
+      "type": "fa-wind",
+      "color": "bg-gray-500",
+      "description": "Whirlwind of Woe",
+      "multiplier": 20,
+      "id": 130
+    },
+    {
+      "name": "Quake 'n' Shake",
+      "type": "fa-gem",
+      "color": "bg-gray-500",
+      "description": "The Rock 'n' Roller",
+      "multiplier": 20,
+      "id": 131
     }
   ],
   "colorsArray": [
