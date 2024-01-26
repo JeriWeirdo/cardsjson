@@ -902,6 +902,22 @@
       "description": "The BEST",
       "multiplier": 19,
       "id": 112
+    },
+    {
+      "name": "The First Breath",
+      "type": "fa-wind",
+      "color": "bg-red-500",
+      "description": "First wind card ever🍃",
+      "multiplier": 10,
+      "id": 112
+    },
+    {
+      "name": "Rolling Stone",
+      "type": "fa-gem",
+      "color": "bg-red-500",
+      "description": "The first pebbles are forming",
+      "multiplier": 3,
+      "id": 112
     }
   ],
   "colorsArray": [
