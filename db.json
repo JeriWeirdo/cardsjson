@@ -1054,6 +1054,46 @@
       "description": "The Rock 'n' Roller",
       "multiplier": 2,
       "id": 131
+    },
+    {
+      "name": "Zephyr Zoom",
+      "type": "fa-wind",
+      "color": "bg-sky-500",
+      "description": "Zephyr Zoom: Sky's Swirling Dance",
+      "multiplier": 5,
+      "id": 132
+    },
+    {
+      "name": "Breeze Blaster",
+      "type": "fa-wind",
+      "color": "bg-blue-500",
+      "description": "Breeze Blaster: Blast of Blue Wind",
+      "multiplier": 6,
+      "id": 133
+    },
+    {
+      "name": "Aero Whirl",
+      "type": "fa-wind",
+      "color": "bg-indigo-500",
+      "description": "Aero Whirl: Indigo Whirlwind",
+      "multiplier": 7,
+      "id": 134
+    },
+    {
+      "name": "Whispering Gale",
+      "type": "fa-wind",
+      "color": "bg-violet-500",
+      "description": "Whispering Gale: Gentle Violet Breeze",
+      "multiplier": 8,
+      "id": 135
+    },
+    {
+      "name": "Cyclonic Surge",
+      "type": "fa-wind",
+      "color": "bg-rose-500",
+      "description": "Cyclonic Surge: A Rose-tinged Cyclone",
+      "multiplier": 9,
+      "id": 136
     }
   ],
   "colorsArray": [
