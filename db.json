@@ -889,15 +889,15 @@
     },
     {
       "name": "Another one",
-      "type": "fa-fire",
+      "type": "fa-droplet",
       "color": "bg-blue-500",
       "description": "Yes",
       "multiplier": 5,
       "id": 111
     },
     {
-      "name": "America",
-      "type": "fa-droplet",
+      "name": "America🗽",
+      "type": "fa-fire",
       "color": "bg-red-500",
       "description": "The BEST",
       "multiplier": 19,
