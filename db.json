@@ -906,7 +906,7 @@
     {
       "name": "The First Breath",
       "type": "fa-wind",
-      "color": "bg-indigo-500",
+      "color": "bg-white",
       "description": "First wind card ever🍃",
       "multiplier": 10,
       "id": 112
@@ -914,7 +914,7 @@
     {
       "name": "Rolling Stone",
       "type": "fa-gem",
-      "color": "bg-grey-500",
+      "color": "bg-gray-500",
       "description": "The first pebbles are forming",
       "multiplier": 3,
       "id": 112
