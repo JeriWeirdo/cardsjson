@@ -875,9 +875,33 @@
       "name": "Jeri",
       "type": "fa-face-angry",
       "color": "bg-amber-500",
-      "description": "The best ever",
+      "description": "Meet the maker",
       "multiplier": 20,
       "id": 109
+    },
+    {
+      "name": "This is fun to make gang",
+      "type": "fa-snowflake",
+      "color": "bg-emerald-500",
+      "description": "This is fun to make gang",
+      "multiplier": 4,
+      "id": 110
+    },
+    {
+      "name": "Another one",
+      "type": "fa-fire",
+      "color": "bg-blue-500",
+      "description": "Yes",
+      "multiplier": 5,
+      "id": 111
+    },
+    {
+      "name": "America",
+      "type": "fa-droplet",
+      "color": "bg-red-500",
+      "description": "The BEST",
+      "multiplier": 19,
+      "id": 112
     }
   ],
   "colorsArray": [
