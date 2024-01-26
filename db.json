@@ -1044,7 +1044,7 @@
       "type": "fa-wind",
       "color": "bg-gray-500",
       "description": "Whirlwind of Woe",
-      "multiplier": 20,
+      "multiplier": 5,
       "id": 130
     },
     {
@@ -1052,7 +1052,7 @@
       "type": "fa-gem",
       "color": "bg-gray-500",
       "description": "The Rock 'n' Roller",
-      "multiplier": 20,
+      "multiplier": 2,
       "id": 131
     }
   ],
