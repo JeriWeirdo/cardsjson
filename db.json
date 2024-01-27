@@ -1094,6 +1094,14 @@
       "description": "Cyclonic Surge: A Rose-tinged Cyclone",
       "multiplier": 9,
       "id": 136
+    },
+    {
+      "name": "Tubarao, te amo!",
+      "type": "fa-droplet",
+      "color": "bg-cyan-500",
+      "description": "O remelaixon mais swingera do Brazil",
+      "multiplier": 8,
+      "id": 137
     }
   ],
   "colorsArray": [
